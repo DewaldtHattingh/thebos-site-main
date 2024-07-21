@@ -1,0 +1,12 @@
+@font-face {
+          font-family: 'Bosch';
+          src: url('../../public/fonts/Bosch.otf') format('opentype');
+          font-weight: normal;
+          font-style: normal;
+        }
+@font-face {
+          font-family: 'Outfit';
+          src: url('../../public/fonts/Outfit-Regular.ttf') format('opentype');
+          font-weight: normal;
+          font-style: normal;
+        }
